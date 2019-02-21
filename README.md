@@ -17,6 +17,7 @@ observable states, it also uses the following features:
 4. Finish the README.md
 6. Fill in the checkTransaction menthod of collect sigs flow
 7. The manager should check that the cash transactions send the cash to him. For this to work, we need to use the same key for each cash state
+8. etc etc
 
 ## How it works
 
